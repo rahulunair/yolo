@@ -1,5 +1,7 @@
 ### YoloV3 in Pytorch
 
+Yet another implementation of YOLO_V3 in Pytorch, to learn about the architecture.
+
 - Implement darknet
   - Download the model config as given byi [pjreddie] (https://github.com/pjreddie)
   ```bash
